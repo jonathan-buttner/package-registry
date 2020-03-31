@@ -2,7 +2,13 @@
     "attributes": {
         "description": "",
         "kibanaSavedObjectMeta": {
-            "searchSourceJSON": {}
+            "searchSourceJSON": {
+                "query": {
+                    "query": "",
+                    "language": "kuery"
+                },
+                "filter": []
+            }
         },
         "title": "[Endpoint] Controls",
         "uiStateJSON": {},
@@ -67,6 +73,6 @@
         }
     ],
     "type": "visualization",
-    "updated_at": "2020-03-30T13:38:16.969Z",
-    "version": "Wzk1LDFd"
+    "updated_at": "2020-03-31T13:59:59.828Z",
+    "version": "WzE3MiwxXQ=="
 }
