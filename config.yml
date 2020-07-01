@@ -1,3 +1,4 @@
 package_paths:
+  - endpoint-packages
   - ./testdata/package
   - ./build/package-storage/packages
